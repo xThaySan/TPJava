@@ -1,5 +1,5 @@
 # Projet de Programmation en Java
-- - - -
+
 ## Description du projet 
 
 L'objectif est de créer un programme fonctionnel en Java utilisant les concepts de la P.O.O.
@@ -50,9 +50,7 @@ exhaustifs possibles.
 Plus précisément, l'ensemble des services proposé sera testé et leurs résultats affichés
 (méthodes de calcul de périmètre et d'aire, de transformations, de tri et de copie).
 La fresque devra être affichée sous une forme textuelle la plus explicite possible.
-- - - -
 
-- - - -
 ## Rendu du projet 
 
 Le projet est à réaliser par **binôme**.
